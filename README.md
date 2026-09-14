@@ -6,6 +6,8 @@
 
 I’m a performance-driven DevOps Engineer with ~6 years of experience building, migrating, and operating secure, scalable cloud-native infrastructure. I specialize in Kubernetes, Terraform, CI/CD automation, observability, and multi-cloud cost optimization (FinOps) across AWS, Azure, and GCP.
 
+📄 **[Download my resume (PDF)](https://github.com/mayukhrooj/mayukhrooj/blob/main/Mayukh_Rooj_Resume.pdf)**
+
 ---
 
 ## 🚀 Highlights
@@ -79,5 +81,6 @@ Built end-to-end observability, alerting, and on-call frameworks aligned with mo
 
 - 💻 GitHub: https://github.com/mayukhrooj  
 - 🔗 LinkedIn: https://linkedin.com/in/mayukhrooj  
+- 📄 Resume: [Mayukh_Rooj_Resume.pdf](https://github.com/mayukhrooj/mayukhrooj/blob/main/Mayukh_Rooj_Resume.pdf)  
 
 > *“Automate relentlessly. Secure by default. Optimize for scale.”*
